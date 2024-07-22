@@ -1,0 +1,10 @@
+.contactItem {
+    display: flex;
+    gap: 20px;
+}
+
+.contactButton {
+    display: flex;
+    gap: 20px;
+    align-items: center
+}

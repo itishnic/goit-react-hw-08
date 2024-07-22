@@ -1,0 +1,12 @@
+.label {
+    overflow: hidden;
+    text-align: left;
+
+}
+
+.input {
+    box-sizing: border-box;
+    width: 100%;
+
+
+}
